@@ -1,7 +1,7 @@
 # Boston Housing Price Prediction: OLS Regression Analysis
 
 ## Project Overview
-This project estimates a linear regression model to predict housing prices in Boston. The goal of the analysis was to identify the most significant drivers of property values while rigorously addressing data redundancy. Using Ordinary Least Squares (OLS) regression, the final model successfully explains approximately 70% of the variance in Boston house prices.
+This project estimates a linear regression model to predict housing prices in Boston. The goal of the analysis was to identify the most significant drivers of property values while rigorously addressing data redundancy. Using Ordinary Least Squares (OLS) regression, the final model successfully explains approximately 70% of the variance in Boston house prices. This project was completed in a group setting by myself and my teammates at Vistula University.
 
 ## Data Preparation & Feature Selection
 To ensure a robust model, the initial dataset was evaluated for multicollinearity using a correlation matrix. 
